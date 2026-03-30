@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mephimeow&fontSize=90&animation=fadeIn&fontAlignY=35" />
+  </a>
+</h1>
 
-<!--
-**Mephimeow/Mephimeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://t.me/Sessionisdead">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://vk.com/mephisto_vok">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools :
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,shell,bash,linux,vscode,git,docker" />
+</div>
+
+---
+
+### 🔥 My Stats :
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mephimeow&theme=dark&background=000000" height="180" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mephimeow&layout=compact&theme=dark&background=000000" height="180" alt="languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mephimeow&style=flat-square&color=green" alt="profile views" />
+</div>
