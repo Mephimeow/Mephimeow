@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mephimeow&style=flat-square&color=7C3AED" alt="profile views" />
-  <img src="https://badges.pequeny晴.workers.dev/badges/premium?color=7C3AED&text=Premium" alt="premium" />
 </p>
 
 <p align="center">
