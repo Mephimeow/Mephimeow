@@ -1,37 +1,71 @@
 <h1 align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mephimeow&fontSize=90&animation=fadeIn&fontAlignY=35" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Mephimeow;CyberSecurity+Developer;Systems+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mephimeow&style=flat-square&color=7C3AED" alt="profile views" />
+  <img src="https://badges.pequeny晴.workers.dev/badges/premium?color=7C3AED&text=Premium" alt="premium" />
+</p>
+
+<p align="center">
   <a href="https://t.me/Sessionisdead">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://vk.com/mephisto_vok">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" />
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools :
+### 🐱 About Me
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  > Cybersecurity enthusiast                              ║
+║  > C++ & Python developer                               ║
+║  > Network tools explorer                               ║
+║  > Open source advocate                                 ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,docker,git,vscode,clang,cmake,nginx,mysql,redis,raspberry" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mephimeow&theme=discord&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,shell,bash,linux,vscode,git,docker" />
+  <img src="https://streak-stats.demolab.com/?user=Mephimeow&theme=vision-friendly-dark&background=0d1117" height="180" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mephimeow&show_icons=true&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&count_private=true" height="180" alt="stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mephimeow&layout=donut&theme=vision-friendly-dark&bg_color=0d1117" height="180" alt="languages" />
 </div>
 
 ---
 
-### 🔥 My Stats :
+### 🐾 Fun Fact
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mephimeow&theme=dark&background=000000" height="180" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mephimeow&layout=compact&theme=dark&background=000000" height="180" alt="languages" />
-</div>
+> "Code is like humor. When you have to explain it, it's bad."
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mephimeow&style=flat-square&color=green" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
+<p align="center">
+  <sub><i>Made with ☕ and 🔒</i></sub>
+</p>
