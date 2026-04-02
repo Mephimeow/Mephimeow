@@ -40,18 +40,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mephimeow&theme=discord&no-frame=true&column=4&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Mephimeow&theme=vision-friendly-dark&background=0d1117" height="180" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mephimeow&show_icons=true&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&count_private=true" height="180" alt="stats" />
+ 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mephimeow&layout=donut&theme=vision-friendly-dark&bg_color=0d1117" height="180" alt="languages" />
-</div>
+
 
 ---
 
