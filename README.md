@@ -22,9 +22,9 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  > Cybersecurity enthusiast                              ║
-║  > C++ & Python developer                               ║
-║  > Network tools explorer                               ║
-║  > Open source advocate                                 ║
+║  > C++ & Python developer                                ║
+║  > Network tools explorer                                ║
+║  > Open source avocado                                   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
