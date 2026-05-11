@@ -52,7 +52,7 @@
 
 ### 🐾 Fun Fact
 
-> "Code is like humor. When you have to explain it, it's bad."
+> "If u read this , u is another hr who won't give me a job :3 ; fuck me if im wrong (pls fuck me)"
 
 ---
 
@@ -61,5 +61,5 @@
 </div>
 
 <p align="center">
-  <sub><i>Made with ☕ and 🔒</i></sub>
+  <sub><i>BEBEBE </i></sub>
 </p>
